@@ -4,4 +4,4 @@ featured_image: homer.jpg
 draft: true
 ---
 
-Det här är en bild på homer
+Det här är en bild på Homer
