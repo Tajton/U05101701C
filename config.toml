@@ -6,6 +6,8 @@ title = "Min nya sida"
  
 theme = "ananke"
 
+SectionPagesMenu = "main"
+
 [params]
   twitter = "https://twitter.com/t4ostra"
   featured_image = "/images/hero-image.jpg"
