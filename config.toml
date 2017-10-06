@@ -1,4 +1,7 @@
 baseURL = "https://financial-controller-oceans-61680.netlify.com/"
+
 languageCode = "en-us"
+
 title = "Min nya sida"
- theme = "ananke"
+ 
+theme = "ananke"
